@@ -7,7 +7,7 @@
 #### * Paragraph tag
 #### * Horizontal tag
 #### * Form tag using all the embedded tags in it.
-#### * Anchor <a> tag
-#### * Textarea <textarea> tag
-#### * Input tag <input>
+#### * Anchor tag
+#### * Textarea tag
+#### * Input tag
 
