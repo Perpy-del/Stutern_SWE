@@ -3,7 +3,7 @@
 
 - Create a simple HTML page following the last few sessions. We would be using the following tags:
 
-* Header <code><h1></code>
+* <h1>Header tag</h1> <hr>
 * Paragraph <code><p></code> tag
 * Horizontal <hr> tag
 * Form <form> tag using all the embedded tags in it.
