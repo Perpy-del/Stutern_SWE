@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    /* background-color: rgb(169, 224, 169); */
+
+}
+
+.content {
+    margin: 100px;
+}
+
+.content h1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+
+.content p {
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+hr {
+    margin-bottom: 30px;
+}
+
+.origin h3, .ingredients h3, .pre_prepare h3, .prepare h3 {
+    text-align: center;
+    font-size: 35px;
+    padding-bottom: 10px;
+    color: green;
+}
+
+.origin p {
+    text-align: left;
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 50px;
+}
+
+li {
+    list-style: inside;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+ul span {
+    font-size: 20px;
+}
+
+ul {
+    margin-bottom: 50px;
+}
+
+.prepare li {
+    list-style: numeric;
+    padding-left: 15px;
+    margin-left: 15px;
+}
+
+.others h3 {
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+
+.others_cat {
+    display: flex;
+    flex-direction: column;
+}
+
+.others_top, .others_bottom {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+
+.efo img {
+    margin: 0 300px 50px 300px !important;
+}
