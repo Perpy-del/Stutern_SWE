@@ -1,3 +1,5 @@
+# Link to my GitHub page:https://perpy-del.github.io/Stutern_SWE/Module_Three/Favourite_Meal/
+
 # Module 3: HTML Project Assignment
 
 ## This assignment is aimed at helping you practice all you have learned this week
