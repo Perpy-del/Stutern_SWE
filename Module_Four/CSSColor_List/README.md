@@ -5,7 +5,7 @@
 ### Elements in building this application.
 
 ```bash
-<h1>
+<h1></h1>
 ```
 2. <ul>
 3. <li>
