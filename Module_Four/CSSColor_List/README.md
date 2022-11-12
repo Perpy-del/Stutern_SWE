@@ -23,3 +23,4 @@
 ### 
 This will be triplicated, the first will be styled using In-line CSS, the second; internal CSS, and the third; External CSS.
 
+## This is the [result](https://perpy-del.github.io/Stutern_SWE/Module_Four/CSSColor_List/)
