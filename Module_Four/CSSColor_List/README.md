@@ -5,12 +5,20 @@
 ### Elements in building this application.
 
 ```bash
-<h1></h1>
+<h1> content </h1>
 ```
-2. <ul>
-3. <li>
-4.<span>
-5. <img>
+```bash
+<ul> content </ul>
+```
+```bash
+<li> content </li>
+```
+```bash
+<span> content </span>
+```
+```bash
+<img src=""/>
+```
 
 ### 
 This will be triplicated, the first will be styled using In-line CSS, the second; internal CSS, and the third; External CSS.
