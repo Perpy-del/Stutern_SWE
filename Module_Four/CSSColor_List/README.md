@@ -4,7 +4,9 @@
 
 ### Elements in building this application.
 
-1. <h1>
+1.```bash
+    <h1>
+  ```
 2. <ul>
 3. <li>
 4.<span>
