@@ -1,0 +1,109 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 50%;
+    margin: auto;
+}
+
+.love_content {
+    margin-top: 4rem;
+}
+
+.love_content h2 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.likes {
+    border: 2px solid chocolate;
+    border-radius: 1rem;
+    padding: 30px 20px 30px 70px;
+    font-size: 20px;
+    list-style-type: lower-roman;
+}
+
+.likes li {
+    line-height: 35px;
+}
+
+#tech {
+    color: blueviolet;
+}
+
+#clean {
+    color: brown;
+}
+
+#travel {
+    color: blue;
+}
+
+#lang {
+    color: crimson;
+}
+
+#swim {
+    font-style: italic;
+}
+
+#fin {
+    font-weight: 600;
+}
+
+#female {
+    color: palevioletred;
+}
+
+#impact {
+    color: coral;
+}
+
+#movies {
+    color: darkgreen;
+}
+
+#pub {
+    color: purple;
+}
+
+.dislike_content {
+    margin-top: 4rem;
+}
+
+.dislike_content h2 {
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+
+.dislikes {
+    border: 2px solid darkred;
+    border-radius: 1rem;
+    padding: 30px 20px 30px 70px;
+    font-size: 20px;
+}
+
+.dislikes li {
+    line-height: 35px;
+    color: red;
+}
+
+#ex {
+    font-style: italic;
+    font-weight: 700;
+}
+
+#target {
+    font-style: oblique;
+}
+
+#dis {
+    font-weight: bold;
+}
+
+#not {
+    font-style: italic;
+}
+
+#laundry {
+    font-size: 16px;
+}
