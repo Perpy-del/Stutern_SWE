@@ -1,5 +1,7 @@
 # CSS Inheritance Assignment
 
+# [Link to my GitHub Page](https://perpy-del.github.io/Stutern_SWE/Module_Four/CSS_Inheritance/)
+
 ## Create an ordered and unordered list of your likes and dislikes.
 
 - Give class names and id names to both parent tags and children tags.
