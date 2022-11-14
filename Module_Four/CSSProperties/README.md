@@ -1,5 +1,7 @@
 # Major CSS Properties Assignment
 
+# Here is the [GitHub Page for CSS Properties](https://perpy-del.github.io/Stutern_SWE/Module_Four/CSSProperties/)
+
 ## N.B: Use your heading tags for headings and paragraph tags for the paragraphs. Also format the write-ups with paddings, margins, and borders to beautify them.
 
 ### The entire write-up should have a background color “white” and it should be in three sections
