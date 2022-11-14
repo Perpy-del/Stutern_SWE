@@ -4,14 +4,23 @@
 
 ### Elements in building this application.
 
-1.```bash
-    <h1>
-  ```
-2. <ul>
-3. <li>
-4.<span>
-5. <img>
+```bash
+<h1> content </h1>
+```
+```bash
+<ul> content </ul>
+```
+```bash
+<li> content </li>
+```
+```bash
+<span> content </span>
+```
+```bash
+<img src=""/>
+```
 
 ### 
 This will be triplicated, the first will be styled using In-line CSS, the second; internal CSS, and the third; External CSS.
 
+## This is the [result](https://perpy-del.github.io/Stutern_SWE/Module_Four/CSSColor_List/)
