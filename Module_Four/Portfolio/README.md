@@ -1,5 +1,6 @@
-# [Please Click Here - Portfolio Assignment](https://perpy-del.github.io/Stutern_SWE/Module_Four/Portfolio/)
+# [Please Click Here - Link to Portfolio Assignment GitHub Page](https://perpy-del.github.io/Stutern_SWE/Module_Four/Portfolio/)
 
+# [Link to the screenshot of the Portfolio](https://docs.google.com/document/d/1wwSJj0fJZX_Kd3VVrTZLzHdIwBMgAMHKzgiLQy7QVec/edit?usp=sharing)
 ## Create a portfolio site for yourself indicating your;
 
 - an image of yourself or anything you prefer
