@@ -82,6 +82,7 @@ label {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
 }
 
 #email {
@@ -209,7 +210,7 @@ video {
 
 .third_section {
     border-bottom: 0.5rem solid rgb(82, 81, 81);
-    padding: 4rem 6rem;
+    padding: 3.5rem 6rem;
 }
 
 .third_section h1 {
@@ -219,5 +220,71 @@ video {
 
 .third_section p {
     font-size: 1.7rem;
-    width: 40%;
+    width: 50%;
+}
+
+/* ======================kids_section (FOURTH SECTION)========================= */
+
+.kids_section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1.5rem;
+    border-bottom: 0.5rem solid rgb(82, 81, 81);
+    padding: 7rem 6rem;
+    gap: 3rem;
+}
+
+#Netlify_kids {
+    width: 45%;
+}
+
+.kids_text h1 {
+    font-size: 3rem;
+    padding-bottom: 1.5rem;
+}
+
+.kids_section p {
+    font-size: 1.7rem;
+    width: 95%;
+}
+
+/* ======================faqs (FIFTH SECTION)========================= */
+
+.faqs {
+    border-bottom: 0.5rem solid rgb(82, 81, 81);
+    padding: 5rem 6rem;
+    text-align: center;
+}
+
+.faqs h1 {
+    font-size: 3rem;
+    padding-bottom: 2.5rem;
+}
+
+.questions {
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+}
+ 
+.each_question {
+    display: flex;
+    /* flex-direction: row; */
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(53, 52, 52);
+    margin-bottom: 0.5rem;
+}
+
+.each_question h3 {
+    font-size: 1.7rem;
+    font-weight: 400;
+    padding: 1.5rem;
+}
+
+#plus {
+    width: 2.5rem;
+    padding-right: 1rem;
 }
