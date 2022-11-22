@@ -1,4 +1,5 @@
-# Module 6: Live Project with HTML and CSS
+This assignment entails cloning the [Netflix landing page](https://www.netflix.com/ng/)
 
-## This week you will be working on getting comfortable with HTML and CSS by bringing different projects to life, cloning the Netflix web landing page and would be submitting the hosted link of the hosted page on Netlify, GitHub pages or vercel.
+We are only using HTML and CSS without the JS scripting and every other part.
 
+This would be fun... Yay!!!
