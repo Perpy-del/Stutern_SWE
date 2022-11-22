@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif, 'Ubuntu', sans-serif, Helvetica, sans-serif, Segoe UI, sans-serif;
+    color: white;
+    background-color: rgb(32, 31, 31);
+    background-image: linear-gradient( to bottom, rgba(46, 45, 45, 0.411), rgba(0, 0, 0, 0.582), rgba(0, 0, 0, 0.623)), url(./images/Netlify_LP.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+/* ==================================== HEADER SECTION ======================================== */
+
+header {
+    border-bottom: 0.85rem solid rgb(82, 81, 81);
+}
+
+#logo {
+    width: 10rem;
+    height: 3.54rem;
+}
+
+#chevron {
+    width: 2rem;
+}
+
+.header_container {
+    height: 8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5rem;
+    margin-top: 1rem;
+}
+
+.header_container a {
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+}
+
+.hero_section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    height: 85vh;
+}
+
+.hero_section h1 {
+    font-size: 4rem;
+    width: 40%;
+    text-align: center;
+    line-height: 65px;
+}
+
+.hero_section p {
+    font-size: 2.2rem;
+}
+
+label {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.get_started {
+    margin-top: 1rem;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#email {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+    padding: 1.5rem 1rem;
+    width: 30rem;
+}
+
+#signup_btn {
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.2rem;
+    padding: 1rem 2rem 1rem 3rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
